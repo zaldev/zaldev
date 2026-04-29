@@ -63,9 +63,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-stats-three-delta-98.vercel.app/api?username=zaldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=zaldev&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-three-delta-98.vercel.app/api/top-langs/?username=zaldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ## 🏆 GitHub Trophies
