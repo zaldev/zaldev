@@ -73,9 +73,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zaldev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
-
----
-
-## 💰 Support My Work
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/salioudiaw)
