@@ -1,11 +1,22 @@
 # Writes assets/header-dark.svg and assets/header-light.svg for the GitHub profile.
 import sys
 out = sys.argv[1]
+# Accent palettes, matching the portfolio (zaldev.github.io). Pick one with ACCENT.
+# (light text-safe accent, light tint, dark accent, dark tint): all AA (4.5:1) on their backgrounds.
+PALETTES = {
+    "orange":  ("#C2410C", "#FFF0E6", "#FF8A3D", "#3A1D0C"),
+    "crimson": ("#D0021B", "#FDECEE", "#FF5A6A", "#3A1218"),
+    "violet":  ("#6D28D9", "#F1EBFE", "#A78BFA", "#241A45"),
+    "magenta": ("#BE185D", "#FDEBF3", "#FF5CAA", "#3A1028"),
+    "teal":    ("#0F766E", "#CCFBF1", "#2DD4BF", "#134E4A"),
+}
+ACCENT = "orange"
+_l, _ls, _d, _ds = PALETTES[ACCENT]
 THEMES = {
     "dark":  dict(bg1="#0B1220", bg2="#121B30", ink="#E6EDF3", muted="#9AA7B8", line="#2A3550",
-                  card="#141E35", accent="#2DD4BF", accent_soft="#134E4A"),
+                  card="#141E35", accent=_d, accent_soft=_ds),
     "light": dict(bg1="#FFFFFF", bg2="#F3F6FA", ink="#0F172A", muted="#526072", line="#D5DCE6",
-                  card="#FFFFFF", accent="#0F766E", accent_soft="#CCFBF1"),
+                  card="#FFFFFF", accent=_l, accent_soft=_ls),
 }
 SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Cantarell, Helvetica, Arial, sans-serif"
 MONO = "ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace"
