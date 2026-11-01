@@ -14,7 +14,7 @@
 
 ## What I bring
 
-- **Business platforms, from database to screen.** APIs, admin interfaces, authentication and roles, workflows and reporting. At CROUS-T I work across finance, human resources, campus housing, and the single sign-on they all share.
+- **Business platforms, from database to screen.** APIs, admin interfaces, authentication and roles, workflows and reporting. At CROUS-T I work on the finance, human resources and campus housing platforms.
 - **Real-time features and background work.** WebSockets with Django Channels, job queues with Celery and Redis, and token-based APIs with Django Ninja and Laravel.
 - **Web and mobile from one back end.** React and Next.js for the web, Flutter for mobile.
 - **Shipping steadily.** Small, reviewable pull requests, each tied to a Jira ticket, so a team can follow, test and roll back every change.
@@ -28,7 +28,7 @@
 
 ## Currently at CROUS-T
 
-I build and maintain the internal platforms of a regional student-services agency: finance, human resources, campus housing, and the single sign-on in front of them. The back ends are Laravel APIs and the front ends are React with Vite.
+I’m part of the development team behind the internal platforms of a regional student-services agency: finance, human resources and campus housing. The back ends are Laravel APIs and the front ends are React with Vite.
 
 ## Stack
 
