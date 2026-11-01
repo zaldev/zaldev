@@ -5,7 +5,7 @@ THEMES = {
     "dark":  dict(bg1="#0B1220", bg2="#121B30", ink="#E6EDF3", muted="#9AA7B8", line="#2A3550",
                   card="#141E35", accent="#2DD4BF", accent_soft="#134E4A"),
     "light": dict(bg1="#FFFFFF", bg2="#F3F6FA", ink="#0F172A", muted="#526072", line="#D5DCE6",
-                  card="#FFFFFF", accent="#0D9488", accent_soft="#CCFBF1"),
+                  card="#FFFFFF", accent="#0F766E", accent_soft="#CCFBF1"),
 }
 SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Cantarell, Helvetica, Arial, sans-serif"
 MONO = "ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace"
@@ -36,7 +36,7 @@ def svg(t):
   <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
   <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="{t['line']}"/>
   <text x="64" y="92" font-family="{MONO}" font-size="18" fill="{t['accent']}">Hello · Bonjour</text>
-  <text x="62" y="168" font-family="{SANS}" font-size="76" font-weight="700" fill="{t['ink']}" letter-spacing="-1.5">I'm Zal</text>
+  <text x="62" y="168" font-family="{SANS}" font-size="76" font-weight="700" fill="{t['ink']}" letter-spacing="-1.5">I’m Zal</text>
   <text x="64" y="212" font-family="{SANS}" font-size="24" font-weight="600" fill="{t['ink']}">Full-stack developer</text>
   <text x="64" y="246" font-family="{SANS}" font-size="19" fill="{t['muted']}">Business platforms, from database to screen.</text>
   <rect x="64" y="262" width="56" height="4" rx="2" fill="{t['accent']}"/>
