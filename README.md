@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://zaldev.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/salioudiaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:salioudiaw.dev@gmail.com"><img src="https://img.shields.io/badge/Email-C2410C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:saliou.pro@proton.me"><img src="https://img.shields.io/badge/Email-C2410C?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">Get in touch.</p>
